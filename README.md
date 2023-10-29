@@ -6,7 +6,7 @@ Pipeline for quality control of whole genome sequence data
 - minikraken2_v2_8GB_201904_UPDATE #database for kraken2
 - NEBPE-PE.fa #adapter database if you are using NEBNext DNA prep kit for library preparation
 
-#note: please be aware that when utilizing the Illumina DNA preparation kit for library preparation, it is essential to ensure that the NEBPE-PE.fa file is appropriately adjusted to include the correct adapter sequences
+#Note: please be aware that when utilizing the Illumina DNA preparation kit for library preparation, it is essential to ensure that the NEBPE-PE.fa file is appropriately adjusted to include the correct adapter sequences
 
 #Programs:
 
